@@ -5,7 +5,7 @@
 ## 🔹 Token Details
 
 - **Name**: Muffin The DOG
-- **Symbol**: MFD
+- **Symbol**: MUFFIN
 - **Mint Address**: CEmyFLPZ8abe2zVxgxBYo3jrh6ZLwvzCKadMayXipump
 - **Network**: Solana (SPL Token)
 - **Total Supply**: Fixed (Mint authority burned)
@@ -18,7 +18,7 @@ Muffin isn't just a meme — he's the most loyal DOG on the Solana blockchain. N
 
 - 🌐 Website: -coming soon-
 - 🐦 X: https://x.com/MuffinTheDogSOL
-- ✈️ Telegram: https://t.me/+eDULWz2I2A9INDQy
+- ✈️ Telegram: https://t.me/MuffinTheDOGofficial
 - 📬 Contact Email: muffin.thedog@gmx.de
 
 ## 🧾 Key Facts
@@ -31,3 +31,4 @@ Muffin isn't just a meme — he's the most loyal DOG on the Solana blockchain. N
 ## 📜 Disclaimer
 
 Muffin The DOG is a community-driven meme token with no financial guarantees or promises. Always DYOR — Do Your Own Research.
+Updated ticker and Telegram-Link
