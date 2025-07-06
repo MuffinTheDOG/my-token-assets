@@ -16,7 +16,7 @@ Muffin isn't just a meme — he's the most loyal DOG on the Solana blockchain. N
 
 ## 🔗 Official Links
 
-- 🌐 Website: -coming soon-
+- 🌐 Website: https://muffinthedog.com
 - 🐦 X: https://x.com/MuffinTheDogSOL
 - ✈️ Telegram: https://t.me/MuffinTheDOGofficial
 - 📬 Contact Email: muffin.thedog@gmx.de
