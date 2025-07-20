@@ -1,4 +1,4 @@
-# 🐶 Muffin The DOG (MFD)
+# 🐶 Muffin The DOG (MUFFIN)
 
 **Muffin The DOG** is a meme-based community token born on Pump.fun — created for fun, loyalty, and the unstoppable energy of decentralized meme culture.
 
